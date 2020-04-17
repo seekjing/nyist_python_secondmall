@@ -1,0 +1,17 @@
+total 61
+-rw-r--r-- 1 chenguangjing 1049089  6647  4月 17 11:43 app.py
+drwxr-xr-x 1 chenguangjing 1049089     0  4月 17 11:43 blueprint/
+-rw-r--r-- 1 chenguangjing 1049089   970  4月 17 11:43 config.py
+-rw-r--r-- 1 chenguangjing 1049089   123  4月 17 11:43 extend.py
+-rw-r--r-- 1 chenguangjing 1049089    66  4月 17 11:43 mail.py
+-rw-r--r-- 1 chenguangjing 1049089   322  4月 17 11:43 manager.py
+drwxr-xr-x 1 chenguangjing 1049089     0  4月 17 11:43 migrations/
+-rw-r--r-- 1 chenguangjing 1049089 23444  4月 17 11:43 new_shop.sql
+-rw-r--r-- 1 chenguangjing 1049089  6936  4月 17 11:43 pojo.py
+-rw-r--r-- 1 chenguangjing 1049089  3213  4月 17 11:43 README.md
+-rw-r--r-- 1 chenguangjing 1049089    79  4月 17 11:43 redis_cache.py
+-rw-r--r-- 1 chenguangjing 1049089   522  4月 17 11:43 requirements.txt
+drwxr-xr-x 1 chenguangjing 1049089     0  4月 17 11:43 static/
+drwxr-xr-x 1 chenguangjing 1049089     0  4月 17 11:43 templates/
+-rw-r--r-- 1 chenguangjing 1049089     0  4月 17 11:49 test.txt
+drwxr-xr-x 1 chenguangjing 1049089     0  4月 17 11:44 venv/
